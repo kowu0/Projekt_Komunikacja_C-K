@@ -1,0 +1,805 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_KCK\\Migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorpsucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorpsucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratormotherboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratormotherboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorgpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorgpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratordiskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratordiskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorcpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorcpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorcoolercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorcoolercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\configuratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\configuratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratormotherboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratormotherboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorpsuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorpsuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\configurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorgpuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorgpuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorcoolerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorcoolerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratordiskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratordiskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorcpuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorcpuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\services\\administratorcaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\services\\administratorcaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\extensions\\conversionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\extensions\\conversionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\ramdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\ramdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\psu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\psu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\psudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\psudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\motherboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\motherboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\motherboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\motherboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\gpudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\gpudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\diskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\diskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\cpudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\cpudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\entities\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\entities\\cooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\coolerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\coolerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\configuratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\configuratordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\casedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\casedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kowu0\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\PACKAGE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240628162025_final migration.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
+              "RelativeToolTip": "Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:20:25.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdministratorDiskController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdministratorGpuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:28:28.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdministratorMotherboardController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:45:10.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfiguratorController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\ConfiguratorController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\ConfiguratorController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\ConfiguratorController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\ConfiguratorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:08:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdministratorCpuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:23:37.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Program.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Program.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Program.cs",
+              "RelativeToolTip": "Projekt_KCK\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAewFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:43:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministratorCoolerController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:07.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministratorCaseController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:00.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdministratorPsuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:45:20.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdministratorPsuService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorPsuService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorPsuService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorPsuService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorPsuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:26:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\appsettings.json",
+              "RelativeDocumentMoniker": "Projekt_KCK\\appsettings.json",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\appsettings.json",
+              "RelativeToolTip": "Projekt_KCK\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T15:10:22.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:12:38.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Projekt_KCK\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:51:09.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministratorRamController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:43:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfiguratorService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\ConfiguratorService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\ConfiguratorService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\ConfiguratorService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\ConfiguratorService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAswH8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:03:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdministratorCoolerService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCoolerService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorCoolerService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCoolerService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorCoolerService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:26:20.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Seed.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Seed.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Seed.cs",
+              "RelativeToolTip": "Projekt_KCK\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:54:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdministratorGpuService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorGpuService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorGpuService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorGpuService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorGpuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:26:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Configurator.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Configurator.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Configurator.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Configurator.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Configurator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:11:27.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\AppDbContext.cs",
+              "RelativeToolTip": "Projekt_KCK\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:43:05.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdministratorMotherboardService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorMotherboardService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorMotherboardService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorMotherboardService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorMotherboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:26:28.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdministratorRamService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorRamService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorRamService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorRamService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorRamService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:26:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdministratorDiskService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorDiskService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorDiskService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorDiskService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorDiskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:27:45.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdministratorCpuService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCpuService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorCpuService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCpuService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorCpuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:23:30.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdministratorCaseService.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCaseService.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Services\\AdministratorCaseService.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Services\\AdministratorCaseService.cs",
+              "RelativeToolTip": "Projekt_KCK\\Services\\AdministratorCaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:25:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Motherboard.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Motherboard.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Motherboard.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Motherboard.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Motherboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:15:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Gpu.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Gpu.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Gpu.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Gpu.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Gpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:14:30.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisteredUser.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\RegisteredUser.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\RegisteredUser.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\RegisteredUser.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\RegisteredUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:51:40.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Case.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Case.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Case.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Case.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Case.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:08:52.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GpuDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\GpuDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\GpuDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\GpuDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\GpuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:04:35.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ram.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Ram.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Ram.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Ram.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Ram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:16:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Psu.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Psu.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Psu.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Psu.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Psu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:15:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Disk.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Disk.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Disk.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Disk.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Disk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:13:46.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DiskDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\DiskDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\DiskDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\DiskDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\DiskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:06:28.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cpu.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Cpu.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Cpu.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Cpu.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Cpu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:12:36.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Cooler.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Cooler.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Entities\\Cooler.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Entities\\Cooler.cs",
+              "RelativeToolTip": "Projekt_KCK\\Entities\\Cooler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:12:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CoolerDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CoolerDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\CoolerDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CoolerDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\CoolerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:07:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ConfiguratorDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\ConfiguratorDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\ConfiguratorDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\ConfiguratorDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\ConfiguratorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:09:32.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConversionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Extensions\\ConversionExtensions.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Extensions\\ConversionExtensions.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Extensions\\ConversionExtensions.cs",
+              "RelativeToolTip": "Projekt_KCK\\Extensions\\ConversionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:31:01.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PsuDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\PsuDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\PsuDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\PsuDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\PsuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:04:53.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RamDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\RamDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\RamDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\RamDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\RamDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:07:52.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MotherboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\MotherboardDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\MotherboardDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\MotherboardDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\MotherboardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:07:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CpuDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CpuDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\CpuDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CpuDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\CpuDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:04:04.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CaseDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\CaseDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\CaseDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\CaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:02:22.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PACKAGE.md",
+              "DocumentMoniker": "C:\\Users\\kowu0\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\PACKAGE.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\PACKAGE.md",
+              "ToolTip": "C:\\Users\\kowu0\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\PACKAGE.md [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.6\\PACKAGE.md [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-25T05:42:44.279Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240624155307_dodanie pustych dto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Migrations\\20240624155307_dodanie pustych dto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:53:07.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:52:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Projekt_KCK\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:50:53.037Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
