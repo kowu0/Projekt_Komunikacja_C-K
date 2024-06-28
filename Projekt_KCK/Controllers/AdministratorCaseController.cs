@@ -16,7 +16,7 @@ namespace Projekt_KCK.Controllers
 
 
         [HttpGet("cases/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<CaseDto>> GetCaseById(int id)
         {
             var result = await _service.GetCaseById(id);
@@ -28,7 +28,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("cases")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<CaseDto>>> GetCases()
         {
             var results = await _service.GetCases();

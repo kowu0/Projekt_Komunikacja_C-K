@@ -14,7 +14,7 @@ namespace Projekt_KCK.Controllers
             _service = service;
         }
         [HttpGet("psus/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<PsuDto>> GetPsuById(int id)
         {
             var result = await _service.GetPsuById(id);
@@ -26,7 +26,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("psus")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<PsuDto>>> GetPsus()
         {
             var results = await _service.GetPsus();

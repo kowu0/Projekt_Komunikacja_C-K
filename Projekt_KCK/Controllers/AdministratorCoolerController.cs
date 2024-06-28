@@ -15,7 +15,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("coolers/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<CoolerDto>> GetCoolerById(int id)
         {
             var result = await _service.GetCoolerById(id);
@@ -27,7 +27,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("coolers")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<CoolerDto>>> GetCoolers()
         {
             var results = await _service.GetCoolers();

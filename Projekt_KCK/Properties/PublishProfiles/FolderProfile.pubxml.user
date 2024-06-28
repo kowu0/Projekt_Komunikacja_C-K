@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\kowu0\Desktop\projekt</_PublishTargetUrl>
-    <History>True|2024-06-28T16:12:22.2348915Z||;True|2024-06-28T18:11:14.3478804+02:00||;True|2024-06-28T17:12:50.3710622+02:00||;True|2024-06-28T17:06:11.2274921+02:00||;True|2024-06-28T08:10:56.4733316+02:00||;True|2024-06-28T08:07:47.2183516+02:00||;True|2024-06-28T08:07:24.2163526+02:00||;True|2024-06-28T07:58:16.0240178+02:00||;</History>
+    <_PublishTargetUrl>C:\Users\kowu0\Desktop\Proj_czl_komp\Projekt_KCK_MVP_w65577_release</_PublishTargetUrl>
+    <History>True|2024-06-28T16:26:49.2182799Z||;True|2024-06-28T18:12:22.2348915+02:00||;True|2024-06-28T18:11:14.3478804+02:00||;True|2024-06-28T17:12:50.3710622+02:00||;True|2024-06-28T17:06:11.2274921+02:00||;True|2024-06-28T08:10:56.4733316+02:00||;True|2024-06-28T08:07:47.2183516+02:00||;True|2024-06-28T08:07:24.2163526+02:00||;True|2024-06-28T07:58:16.0240178+02:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

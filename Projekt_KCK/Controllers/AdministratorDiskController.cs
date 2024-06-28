@@ -15,7 +15,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("disks/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<DiskDto>> GetDiskById(int id)
         {
             var result = await _service.GetDiskById(id);
@@ -27,7 +27,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("disks")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<DiskDto>>> GetDisks()
         {
             var results = await _service.GetDisks();

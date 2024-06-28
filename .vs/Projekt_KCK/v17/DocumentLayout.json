@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projekt_KCK\\Migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,6 +33,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\administratorcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\administratorcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\migrations\\20240628162025_final migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|solutionrelative:projekt_kck\\controllers\\configuratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA452116-F96A-43EE-A54E-BA3A4FA67D5B}|Projekt_KCK\\Projekt_KCK.csproj|c:\\users\\kowu0\\desktop\\proj_czl_komp\\projekt_kck\\projekt_kck\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -205,60 +205,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdministratorDiskController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministratorGpuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:28:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdministratorMotherboardController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:45:10.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdministratorPsuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:45:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdministratorRamController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:43:21.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdministratorCpuController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:23:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdministratorCoolerController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdministratorCaseController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:41:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Projekt_KCK\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:12:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20240628162025_final migration.cs",
               "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
               "RelativeDocumentMoniker": "Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
               "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
               "RelativeToolTip": "Projekt_KCK\\Migrations\\20240628162025_final migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T16:20:25.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdministratorDiskController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorDiskController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwCUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:41:16.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdministratorGpuController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorGpuController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:28:28.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdministratorMotherboardController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorMotherboardController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:45:10.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ConfiguratorController.cs",
               "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\ConfiguratorController.cs",
               "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\ConfiguratorController.cs",
@@ -270,19 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdministratorCpuController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCpuController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:23:37.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Program.cs",
               "RelativeDocumentMoniker": "Projekt_KCK\\Program.cs",
@@ -290,44 +359,7 @@
               "RelativeToolTip": "Projekt_KCK\\Program.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAewFcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T06:43:56.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdministratorCoolerController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCoolerController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwDkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:41:07.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdministratorCaseController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorCaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:41:00.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdministratorPsuController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorPsuController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:45:20.327Z"
+              "WhenOpened": "2024-06-25T06:43:56.939Z"
             },
             {
               "$type": "Document",
@@ -355,18 +387,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAADwvzgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:12:38.501Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ServiceCollectionExtension.cs",
               "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Extensions\\ServiceCollectionExtension.cs",
@@ -376,18 +396,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T06:51:09.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdministratorRamController.cs",
-              "DocumentMoniker": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
-              "RelativeDocumentMoniker": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
-              "ToolTip": "C:\\Users\\kowu0\\Desktop\\Proj_czl_komp\\Projekt_KCK\\Projekt_KCK\\Controllers\\AdministratorRamController.cs",
-              "RelativeToolTip": "Projekt_KCK\\Controllers\\AdministratorRamController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:43:21.112Z"
             },
             {
               "$type": "Document",

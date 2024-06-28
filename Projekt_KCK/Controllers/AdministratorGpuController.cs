@@ -16,7 +16,7 @@ namespace Projekt_KCK.Controllers
 
 
         [HttpGet("gpus/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<GpuDto>> GetGpuById(int id)
         {
             var result = await _service.GetGpuById(id);
@@ -28,7 +28,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("gpus")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<GpuDto>>> GetGpus()
         {
             var results = await _service.GetGpus();

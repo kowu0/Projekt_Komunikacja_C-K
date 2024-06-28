@@ -14,9 +14,9 @@ namespace Projekt_KCK.Controllers
             _service = service;
         }
 
-        // CPU endpoints
+       
         [HttpGet("cpus/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<CpuDto>> GetCpuById(int id)
         {
             var result = await _service.GetCpuById(id);
@@ -28,7 +28,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("cpus")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<CpuDto>>> GetCpus()
         {
             var results = await _service.GetCpus();

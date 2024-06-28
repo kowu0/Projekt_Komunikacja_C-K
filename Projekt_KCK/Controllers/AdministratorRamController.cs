@@ -15,7 +15,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("rams/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<RamDto>> GetRamById(int id)
         {
             var result = await _service.GetRamById(id);
@@ -27,7 +27,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("rams")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<RamDto>>> GetRams()
         {
             var results = await _service.GetRams();

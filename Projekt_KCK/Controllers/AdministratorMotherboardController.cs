@@ -15,7 +15,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("motherboards/{id}")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<MotherboardDto>> GetMotherboardById(int id)
         {
             var result = await _service.GetMotherboardById(id);
@@ -27,7 +27,7 @@ namespace Projekt_KCK.Controllers
         }
 
         [HttpGet("motherboards")]
-        [Authorize(Policy = "AdminPolicy")]
+        [Authorize(Policy = "AdminOrUserPolicy")]
         public async Task<ActionResult<IEnumerable<MotherboardDto>>> GetMotherboards()
         {
             var results = await _service.GetMotherboards();
